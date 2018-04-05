@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MY textview</string>
+
+    <string name="irfan">IRFAN HOSSAIN</string>
+    <string name="bangla">প্রথম ধাপঃ</string>
+    <string name="my_name">This project is based on GPS sensor based map .on their showing their position to  his/her friends  , relatives , parents ,or boss user can securely control their position to their relatives.it also provide distance between two user .
+        \n \n
+        if they want to  reach their destination by walking , bus etc . show how many time to reach to their station. All user has a profile set up on with verification.it will help known their position to there relatives. Some time we say wrong position in mobile call it will solve this problem also.
+        \n \n
+        And last one is Owner of a factory he want know his goods goes which direction it is stop or running these information can easily access able in this section. It will also helpful for blind people..</string>
+</resources>
